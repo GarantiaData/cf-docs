@@ -274,7 +274,7 @@ You can continue [managing your services from the command line](http://docs.clou
 ## Support
 
 Any Redis Cloud support issues or product feedbacks are welcome via email at support@redislabs.com.
-Please make sure you are familiar with the CloudFoundry method of [contacting service providers for support](http://docs.cloudfoundry.com/docs/dotcom/services-marketplace/contacting-service-providers-for-support.html).
+Please make sure you are familiar with the Cloud Foundry method of [contacting service providers for support](http://docs.cloudfoundry.com/docs/dotcom/services-marketplace/contacting-service-providers-for-support.html).
 
 ## Additional resources
 
